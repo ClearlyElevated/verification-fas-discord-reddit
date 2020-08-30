@@ -14,6 +14,7 @@
         <PackageReference Include="Microsoft.Bcl.AsyncInterfaces" Version="1.1.1" />
         <PackageReference Include="Newtonsoft.Json" Version="12.0.2" />
         <PackageReference Include="RedditSharp" Version="2.0.0-CI00075" />
+        <PackageReference Include="System.Interactive.Async" Version="4.1.1" />
     </ItemGroup>
 
 
